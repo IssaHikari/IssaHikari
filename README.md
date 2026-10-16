@@ -6,8 +6,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=主页访问量&color=7aa2f7&style=flat-square" alt="views" />
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/github/followers/USERNAME?label=Follow%20Me&style=flat-square&color=bb9af7&logo=github" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=IssaHikari&label=主页访问量&color=7aa2f7&style=flat-square" alt="views" />
+<a href="https://github.com/IssaHikari"><img src="https://img.shields.io/github/followers/IssaHikari?label=Follow%20Me&style=flat-square&color=bb9af7&logo=github" alt="followers" /></a>
 
 </div>
 
@@ -36,8 +36,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aissa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=IssaHikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaHikari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" alt="top langs" />
 
 <img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 
@@ -57,9 +57,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IssaHikari/IssaHikari/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IssaHikari/IssaHikari/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/IssaHikari/IssaHikari/output/github-snake.svg" />
   </picture>
 </div>
 
