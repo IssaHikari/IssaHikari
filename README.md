@@ -48,7 +48,7 @@
 ## ⌨️ SPEED TYPING
 
 <div align="center">
-  <img src="typing.png" width="700" alt="typing speed" />
+  <img src="Screenshot 2026-08-21 225052.png" width="700" alt="typing speed" />
 </div>
 
 <br/>
