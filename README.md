@@ -39,7 +39,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=IssaHikari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" alt="stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IssaHikari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000" alt="top langs" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=IssaHikari&theme=tokyonight&hide_border=true&background=00000000" alt="streak" />
 
 </div>
 
