@@ -15,7 +15,7 @@
 
 ## 🌸 关于我
 
-<img align="right" src="avatar.jpg" width="120" alt="Avatar" />
+<img align="right" src="anime-avatar-profile-picture-thypix-100-700x700.jpg" width="120" alt="Avatar" />
 
 - 🎓 一名普通的高中生
 - 🐍 Python 新手
